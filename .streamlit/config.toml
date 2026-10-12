@@ -1,0 +1,9 @@
+[browser]
+# Prevents the first-run "enter your email" prompt in the terminal.
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#6C63FF"
+backgroundColor = "#0F1220"
+secondaryBackgroundColor = "#1A1F36"
+textColor = "#EDEFF7"
